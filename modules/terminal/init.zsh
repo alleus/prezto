@@ -106,7 +106,7 @@ then
   # Do not set the tab and window titles in Terminal.app since it sets the tab
   # title to the currently running process by default and the current working
   # directory is set separately.
-  return
+  # return
 fi
 
 # Set up non-Apple terminals.
