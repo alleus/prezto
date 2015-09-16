@@ -30,6 +30,9 @@ zstyle -s ':prezto:module:git:status:ignore' submodules '_git_status_ignore_subm
 alias g='git'
 alias gx='gitx'
 
+# Tag
+alias gt='git tag'
+
 # Branch (b)
 alias gb='git branch'
 alias gbc='git checkout -b'
